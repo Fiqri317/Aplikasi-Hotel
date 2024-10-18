@@ -18,3 +18,6 @@ D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Hotel\src\Aplikasi Hotel\obj\
 D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi_Hotel.Login.resources
 D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi_Hotel.Resources.resources
 D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi Hotel.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi Hotel.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi Hotel.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi-Hotel\src\Aplikasi Hotel\obj\x86\Debug\Aplikasi Hotel.pdb

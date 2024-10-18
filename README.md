@@ -5,8 +5,6 @@ Aplikasi Hotel adalah sebuah sistem manajemen hotel yang dirancang untuk memudah
 ## Fitur
 
 - Pengelolaan data tamu
-- Pemesanan kamar
-- Laporan pemesanan
 - Manajemen data hotel
 
 ## Prasyarat
